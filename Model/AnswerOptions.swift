@@ -15,6 +15,6 @@ class AnswerOptions {
         answerOptions.append(["I'll hop in. Thanks for the help!", "Well, I don't have many options. Better ask him if he's a murderer."])
         answerOptions.append(["At least he's honest. I'll climb in!","Wait, I know how to change a tire."])
         answerOptions.append(["I love Elton John! Hand him the cassette tape.","It’s him or me. Take the knife and stab him."])
-        answerOptions.append(["",""])
+        
     }
 }
